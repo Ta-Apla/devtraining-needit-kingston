@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_delivery_task">
+    <sc_cat_item_delivery_task action="INSERT_OR_UPDATE">
+        <assigned_to/>
+        <condition/>
+        <condition_script/>
+        <delivery_plan display_value="Copy of Office Move">83891e0d4f9a530025efcab18110c7a5</delivery_plan>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <generation_script/>
+        <group display_value="Network" name="Network">287ebd7da9fe198100f92cc8d1d2154e</group>
+        <instructions>User is proposing to move network attached devices from one location to another. Please verify availability of ports in target location and proposed any necessary access changes.</instructions>
+        <name>Network Scope</name>
+        <order>100</order>
+        <short_description>Network Scope</short_description>
+        <sla/>
+        <sys_class_name>sc_cat_item_delivery_task</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-24 08:31:03</sys_created_on>
+        <sys_id>07891e0d4f9a530025efcab18110c7ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Network Scope</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_item_delivery_task_07891e0d4f9a530025efcab18110c7ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-24 08:31:03</sys_updated_on>
+        <work_notes/>
+    </sc_cat_item_delivery_task>
+</record_update>
